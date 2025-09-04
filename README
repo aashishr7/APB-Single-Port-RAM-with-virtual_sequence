@@ -1,1 +1,2 @@
 This project presents the design and implementation of a single-port RAM module interfaced with the AMBA Advanced Peripheral Bus (APB) protocol. The APB RAM acts as a memory-mapped slave that can be accessed by an APB master for read and write operations. The design supports 1024 memory locations (1K x 32-bit) with a simple state machine controlling bus transactions.
+A
